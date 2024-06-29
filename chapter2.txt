@@ -1,0 +1,3 @@
+2nd chapter
+
+1. use git add . --> to stage all files

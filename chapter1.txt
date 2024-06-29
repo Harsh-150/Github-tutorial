@@ -6,3 +6,5 @@ Creation Steps:
 4. git init on terminal
 5. git status --> to check status of file (untracked, staged or committed)
 6. git add chapter1.txt --> for staged status
+7. git commit -m "chapter1.txt added" --> to commit changes
+8. git log --> to see the commits and get all info
