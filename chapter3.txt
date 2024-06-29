@@ -1,2 +1,6 @@
 3rd chapter
 
+pushing local repository on github
+
+1. git remote add origin <url of github repository> --> to connect to repository
+2. git push -u origin main --> to push into repository

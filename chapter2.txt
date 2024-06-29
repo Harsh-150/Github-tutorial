@@ -1,3 +1,8 @@
 2nd chapter
 
-1. use git add . --> to stage all files
+1. git add . --> to stage all files
+2. git commit -m "complete chapter 2 & 3" --> to commit chapter2.txt & chapter3.txt
+3. git log --> to check all commits
+
+4. git diff chapter3.txt --> to see difference between old and new versions
+5. git checkout chapter3.txt --> to rollback to previous version
