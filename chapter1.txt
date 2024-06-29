@@ -1,0 +1,8 @@
+Creation Steps:
+
+1. mkdir Story  --> creates Story folder
+2. cd Story --> to enter Story folder
+3. touch chapter1.txt --> creates chapter1.txt file
+4. git init on terminal
+5. git status --> to check status of file (untracked, staged or committed)
+6. git add chapter1.txt --> for staged status
